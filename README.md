@@ -1,12 +1,18 @@
 # 📚 Text-to-Learn — AI-Powered Course Generator
 
 Turn any topic into a fully structured online course.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d2e3731d-4664-4a3b-ad14-83205a9bb155" />
+
 
 ## ✨ Features
 
 - **Prompt → Course** — type any topic, get 4–6 modules with 3–4 lessons each
 - **Rich Lesson Content** — headings, paragraphs, code blocks, video links, MCQ quizzes
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d750364c-ae9f-40af-bde8-26991860fd73" />
+
 - **Interactive Quizzes** — click options, get instant feedback + explanations
+  <img width="1867" height="952" alt="image" src="https://github.com/user-attachments/assets/b800bfaa-d827-4cfe-89f4-cbc2e6dfe4d2" />
+
 - **PDF Export** — download any lesson as a styled PDF
 - **Copy Code** — one-click copy on every code block
 - **Persistent Storage** — all courses saved to MongoDB
