@@ -1,6 +1,6 @@
 # 📚 Text-to-Learn — AI-Powered Course Generator
 
-Turn any topic into a fully structured online course using Claude AI.
+Turn any topic into a fully structured online course.
 
 ## ✨ Features
 
