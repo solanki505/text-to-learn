@@ -132,7 +132,7 @@ Vite proxies `/api/*` → `http://localhost:5000` automatically — no CORS issu
 
 ### Step 3 — Use the app
 
-1. Open **http://localhost:5173**
+1.Run locally
 2. Type a topic e.g. `"Intro to TypeScript"` and click **Generate Course**
 3. Wait ~15-30 seconds for Claude to design the curriculum
 4. You'll be taken to the Course page — click any lesson
